@@ -11,7 +11,7 @@
 
 # 开始翻墙
 打开Bitvise SSH Client，输入ip端口账户密码，点击最下面的登录。
-![enter description here](./images/1531885643973.png)
+![enter description here](./img/1.png)
 
 
 登录成功后会显示
