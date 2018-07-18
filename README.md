@@ -11,11 +11,11 @@
 
 # 开始翻墙
 打开Bitvise SSH Client，输入ip端口账户密码，点击最下面的登录。
-![enter description here](./img/1.png)
+![enter description here](./img/1.png)  
 
 
 登录成功后会显示
-![enter description here](./img/2.png)
+![enter description here](./img/2.png)  
 
 
 172.0.0.1:7070就是你代理的ip和端口
@@ -26,27 +26,27 @@
 我用的是谷歌浏览器
 
 1.打开谷歌的设置
-![enter description here](./img/3.png)
+![enter description here](./img/3.png)  
 
 
 
 2.选择代理
-![enter description here](./img/4.png)
+![enter description here](./img/4.png)  
 
 
 
 3.选择局域网配置
-![enter description here](./img/5.png)
+![enter description here](./img/5.png)  
 
 
 
 4.勾起lan
-![enter description here](./img/6.png)
+![enter description here](./img/6.png)  
 
 
 
 5.点开高级，配置ip和端口
-![enter description here](./img/7.png)
+![enter description here](./img/7.png)  
 
 
 
@@ -58,11 +58,11 @@
 
 我们可以这样做，打开cmd
 
-![enter description here](./img/8.png)
+![enter description here](./img/8.png)  
 
 这样我们也能够翻墙了，不过这是在当前窗口生效
 
-![enter description here](./img/9.png)
+![enter description here](./img/9.png)  
 
 # 最后
 如果觉得对你有帮助，可以打赏一下（加个备注），为我的服务器续点时间吧。  
