@@ -14,7 +14,7 @@
 ![enter description here](./img/1.png)  
 
 
-登录成功后会显示
+登录成功后会显示  
 ![enter description here](./img/2.png)  
 
 
@@ -25,27 +25,27 @@
 # 通知程序
 我用的是谷歌浏览器
 
-1.打开谷歌的设置
+1.打开谷歌的设置  
 ![enter description here](./img/3.png)  
 
 
 
-2.选择代理
+2.选择代理  
 ![enter description here](./img/4.png)  
 
 
 
-3.选择局域网配置
+3.选择局域网配置  
 ![enter description here](./img/5.png)  
 
 
 
-4.勾起lan
+4.勾起lan  
 ![enter description here](./img/6.png)  
 
 
 
-5.点开高级，配置ip和端口
+5.点开高级，配置ip和端口  
 ![enter description here](./img/7.png)  
 
 
@@ -56,12 +56,10 @@
 
 但是，我如果还想要下载国外的包呢，在开发的时候，比如我现在要下载go的包。
 
-我们可以这样做，打开cmd
-
+我们可以这样做，打开cmd  
 ![enter description here](./img/8.png)  
 
-这样我们也能够翻墙了，不过这是在当前窗口生效
-
+这样我们也能够翻墙了，不过这是在当前窗口生效  
 ![enter description here](./img/9.png)  
 
 # 最后
