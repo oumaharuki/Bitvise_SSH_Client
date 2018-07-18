@@ -5,7 +5,11 @@
 于是在同时担当linux运维的时候（苦逼的程序员，前端、后台加linux运维），了解到ssh的另一个最有用的功能，远程连接什么的和这个比实在是小功能。
 
 # 需要的工具
-1.Bitvise SSH Client，可以去client网站下载
+1.Bitvise SSH Client，可以去
+```Bitvise SSH Client
+https://bitvise-ssh-client.updatestar.com/
+```
+网站下载
 
 2.一个国外服务器，一般有国外项目的公司都会有的，不过你如果不是大佬和运维，也一般拿不到。也可以自己买一个，也不贵，至少能又做开发又能翻墙看点学习资料。
 
