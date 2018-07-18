@@ -29,20 +29,25 @@
 ![enter description here](./img/3.png)
 
 
+
 2.选择代理
 ![enter description here](./img/4.png)
+
 
 
 3.选择局域网配置
 ![enter description here](./img/5.png)
 
 
+
 4.勾起lan
 ![enter description here](./img/6.png)
 
 
+
 5.点开高级，配置ip和端口
 ![enter description here](./img/7.png)
+
 
 
 这样，我们就可以用谷歌翻墙了
